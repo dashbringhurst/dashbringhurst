@@ -1,10 +1,10 @@
 ### Hello, World! 👋
 
-My name is Dash and I'm a data scientist in San Antonio, TX.
+My name is Dash and I'm a data engineer in Knoxville, TN.
 
-- 🔭 I’m currently working on Kaggle data science challenges and individual certifications.
-- 🌱 I’m currently learning natural language processing, Spark, and deep learning.
-- 🤔 I’m looking for help with data visualization and advanced SQL queries.
+- 🔭 I’m currently working on MS SQL Server advanced queries.
+- 🌱 I’m currently learning AWS, Spark, and Azure.
+- 🤔 I’m looking for help with building pipelines.
 - 👾 Ask me about ESO and other PC games!
 - 📫 How to reach me: dashbringhurst@gmail.com
 - 😼 Pronouns: he/him
